@@ -1,10 +1,10 @@
 # Azure Enterprise Help Desk Ticketing System Lab
 
-Overview
+# Overview
 
 This project demonstrates the deployment of an enterprise-style help desk environment in Microsoft Azure using Windows Server 2022, Ubuntu Linux, and osTicket.
 
-Enviornment
+# Enviornment
 
 The environment simulates a real-world IT support infrastructure with ticket creation, assignment, escalation, and resolution workflows.
 
